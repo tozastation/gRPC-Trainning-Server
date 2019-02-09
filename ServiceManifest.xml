@@ -1,0 +1,5 @@
+<Resources>
+  <Endpoints>
+    <Endpoint Name="WeatherRPC" UriScheme="http2" Port="5000" Protocol="http2"/>
+  </Endpoints>
+</Resources>
