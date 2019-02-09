@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{3D016C95-18DF-4F40-9FA5-A904D75BF14A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherApi/Dockerfile">
+    <Files>
+      <File FileName="WeatherApi/Application/Program.cs" Line="32" Column="48" />
+      <File FileName="WeatherApi/Application/Interceptors/AuthInterceptor.cs" Line="12" Column="46" />
+      <File FileName="WeatherApi/Application/Infrastructure/Repositories/WeatherRepository.cs" Line="33" Column="82" />
+      <File FileName="WeatherApi/Dockerfile" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WeatherApi" expanded="True">
+            <Node name="WeatherApi" expanded="True">
+              <Node name="Dockerfile" selected="True" />
+            </Node>
+            <Node name="WeatherApi.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WeatherApi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <AuthorInfo Name="tozastation" Email="b1016031@fun.ac.jp" Copyright="" Company="" Trademark="" />
+</Properties>
