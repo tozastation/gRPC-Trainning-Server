@@ -1,5 +1,5 @@
 {
-  "ProjectFilePath": "/Users/tozastation/go/src/github.com/jbs/tozastation/WeatherApi.Tests/WeatherApi.Tests.csproj",
+  "ProjectFilePath": "/Users/tozastation/go/src/github.com/jbs/gRPC-Trainning-Server/WeatherApi.Tests/WeatherApi.Tests.csproj",
   "TargetFramework": "netcoreapp2.2",
   "TagHelpers": [],
   "Configuration": {

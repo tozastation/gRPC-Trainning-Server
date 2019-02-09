@@ -13,5 +13,5 @@ variables:
   imageName: 'tozastation:$(build.buildId)'
 
 steps:
-- script: docker build -f ./WeatherApi/Dockerfile -t $(imageName) .
+- script: docker build -f Dockerfile -t $(imageName) .
   displayName: 'docker build'
